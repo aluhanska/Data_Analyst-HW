@@ -4,3 +4,4 @@
 - `HW 9.1 Операції над даними.ipynb` - data operations
 - `HW 9.2 Списки.ipynb` - list
 - `HW 9.2 Словники, набори, кортежі.ipynb` - dict, set, tuple
+- `HW 9.2 Control Flow.ipynb` - Control Flow
