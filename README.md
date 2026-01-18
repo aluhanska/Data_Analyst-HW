@@ -5,3 +5,4 @@
 - `HW 9.2 Списки.ipynb` - list
 - `HW 9.2 Словники, набори, кортежі.ipynb` - dict, set, tuple
 - `HW 9.2 Control Flow.ipynb` - Control Flow
+- `HW 9.3 Цикл for.ipynb` - for loop
