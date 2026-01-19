@@ -6,3 +6,4 @@
 - `HW 9.2 Словники, набори, кортежі.ipynb` - dict, set, tuple
 - `HW 9.2 Control Flow.ipynb` - Control Flow
 - `HW 9.3 Цикл for.ipynb` - for loop
+- `HW 9.3 Comprehensions.ipynb` - comprehensions
