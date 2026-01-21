@@ -7,3 +7,4 @@
 - `HW 9.2 Control Flow.ipynb` - Control Flow
 - `HW 9.3 Цикл for.ipynb` - for loop
 - `HW 9.3 Comprehensions.ipynb` - comprehensions
+- `HW 9.3 Цикл while.ipynb` - while loop
