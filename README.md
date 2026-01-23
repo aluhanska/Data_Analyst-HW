@@ -8,3 +8,4 @@
 - `HW 9.3 Цикл for.ipynb` - for loop
 - `HW 9.3 Comprehensions.ipynb` - comprehensions
 - `HW 9.3 Цикл while.ipynb` - while loop
+- `9.4 Функціїї Основи.ipynb` - functions basics
