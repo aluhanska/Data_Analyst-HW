@@ -10,3 +10,4 @@
 - `HW 9.3 Цикл while.ipynb` - while loop
 - `9.4 Функціїї. Основи.ipynb` - functions. basics
 - `9.4 Функції. Продовження.ipynb` - functions. continuation
+- `9.5 Модулі. Винятки.ipynb` - modules. exceptions
