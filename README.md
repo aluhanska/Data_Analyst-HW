@@ -12,3 +12,4 @@
 - `9.4 Функції. Продовження.ipynb` - functions. continuation
 - `9.5 Модулі. Винятки.ipynb` - modules. exceptions
 - `9.5 Класи.ipynb` - classes
+- `Additional HW 1. Базові типи даних. Цикли.ipynb` - basic data types. loops
