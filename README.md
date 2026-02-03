@@ -13,3 +13,4 @@
 - `9.5 Модулі. Винятки.ipynb` - modules. exceptions
 - `9.5 Класи.ipynb` - classes
 - `Additional HW 1. Базові типи даних. Цикли.ipynb` - basic data types. loops
+- `HW 10.1 Введення у Pandas та NumPy.ipynb` - introduction to Pandas and NumPy
