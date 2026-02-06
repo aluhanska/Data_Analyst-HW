@@ -14,3 +14,4 @@
 - `9.5 Класи.ipynb` - classes
 - `Additional HW 1. Базові типи даних. Цикли.ipynb` - basic data types. loops
 - `HW 10.1 Введення у Pandas та NumPy.ipynb` - introduction to Pandas and NumPy
+- `HW 10.2 Oснови роботи з даними у Pandas.ipynb` - basics of working with data in Pandas
