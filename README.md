@@ -17,3 +17,4 @@
 - `HW 10.2 Oснови роботи з даними у Pandas.ipynb` - basics of working with data in Pandas
 - `HW 10.3 Розширені методи обробки даних у Pandas.ipynb` - advanced data processing methods in Pandas
 - `Additional HW 2. Data structures, loops and functions.ipynb` - data structures, loops, and functions
+- `HW 11.1 Візуалізація даних з Pandas` - data visualization with Pandas
