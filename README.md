@@ -18,3 +18,4 @@
 - `HW 10.3 Розширені методи обробки даних у Pandas.ipynb` - advanced data processing methods in Pandas
 - `Additional HW 2. Data structures, loops and functions.ipynb` - data structures, loops, and functions
 - `HW 11.1 Візуалізація даних з Pandas` - data visualization with Pandas
+- `HW 11.2 Візуалізація даних з Matplotlib.ipynb` - data visualization with Matplotlib
