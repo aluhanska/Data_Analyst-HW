@@ -19,6 +19,7 @@
 - `Additional HW 2. Data structures, loops and functions.ipynb` - data structures, loops, and functions
 - `HW 11.1 Візуалізація даних з Pandas` - data visualization with Pandas
 - `HW 11.2 Візуалізація даних з Matplotlib.ipynb` - data visualization with Matplotlib
+- `HW 11.3 Статистичні візуалізації з Seaborn.ipynb` - statistical visualizations with Seaborn
 - `HW 12.1 Інтеграція Python та SQL запити даних.ipynb` - Python and SQL data query integration
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
 - `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - Hypotheses testing. Z-test
