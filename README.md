@@ -23,3 +23,4 @@
 - `HW 12.1 Інтеграція Python та SQL запити даних.ipynb` - Python and SQL data query integration
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
 - `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - hypotheses testing. Z-test
+- `HW 15.3 Тести для малих вибірок та пропорцій.ipynb` - population mean and proportion
