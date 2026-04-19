@@ -22,4 +22,4 @@
 - `HW 11.3 Статистичні візуалізації з Seaborn.ipynb` - statistical visualizations with Seaborn
 - `HW 12.1 Інтеграція Python та SQL запити даних.ipynb` - Python and SQL data query integration
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
-- `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - Hypotheses testing. Z-test
+- `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - hypotheses testing. Z-test
