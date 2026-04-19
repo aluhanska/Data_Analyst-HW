@@ -21,3 +21,4 @@
 - `HW 11.2 Візуалізація даних з Matplotlib.ipynb` - data visualization with Matplotlib
 - `HW 12.1 Інтеграція Python та SQL запити даних.ipynb` - Python and SQL data query integration
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
+- `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - Hypotheses testing. Z-test
