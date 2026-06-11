@@ -1,5 +1,5 @@
 # Data Analyst in IT - Homework
-- `My first notebook.ipynb` - Jupyter Notebook interface, Markdown and Code cells
+- `My first notebook.ipynb` - Jupyter Notebook interface, Markdown, and Code cells
 - `HW 9.1 Cинтаксис Python.ipynb` - Python syntax
 - `HW 9.1 Операції над даними.ipynb` - data operations
 - `HW 9.2 Списки.ipynb` - list
@@ -22,7 +22,8 @@
 - `HW 11.3 Статистичні візуалізації з Seaborn.ipynb` - statistical visualizations with Seaborn
 - `HW 12.1 Інтеграція Python та SQL запити даних.ipynb` - Python and SQL data query integration
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
-- `HW 15.2 Перевірка статиcтичних гіпотез. Z-test.ipynb` - hypotheses testing. Z-test
+- `HW 15.2 Перевірка статистичних гіпотез. Z-test.ipynb` - hypothesis testing. Z-test
 - `HW 15.3 Тести для малих вибірок та пропорцій.ipynb` - population mean and proportion
 - `HW 15.4 Аналіз А_В-тестів.ipynb` - A/B testing
 - `HW 17.1 Чистий код.ipynb` - clean code
+- `HW 16.2 Прогнозування кредитного ризику.ipynb` - credit risk prediction
