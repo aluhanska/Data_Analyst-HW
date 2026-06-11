@@ -24,6 +24,7 @@
 - `HW 12.2 Внесення оновлень в БД і робота з транзакціями.ipynb` - updating the database and working with transactions
 - `HW 15.2 Перевірка статистичних гіпотез. Z-test.ipynb` - hypothesis testing. Z-test
 - `HW 15.3 Тести для малих вибірок та пропорцій.ipynb` - population mean and proportion
-- `HW 15.4 Аналіз А_В-тестів.ipynb` - A/B testing
+- `HW 16.1 Прогнозування орендної плати за житло.ipynb` - rental price prediction
 - `HW 17.1 Чистий код.ipynb` - clean code
+- `HW 15.4 Аналіз А_В-тестів.ipynb` - A/B testing
 - `HW 16.2 Прогнозування кредитного ризику.ipynb` - credit risk prediction
